@@ -1,17 +1,17 @@
-# Python
+# Python cache files
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 
-# Virtual environments
-#mijn_project_venv/   <- dit hoeft niet want je venv staat buiten projectmap
+# Virtual environment (outside project, so optional)
+#calculator_venv/
 
-# Editor bestanden
+# Editor config
 .vscode/
 .idea/
 *.swp
 
-# Log en data
+# Logs and DB files
 *.log
 *.sqlite3
