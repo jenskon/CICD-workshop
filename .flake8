@@ -1,0 +1,7 @@
+[flake8]
+exclude =
+    calculator_venv,
+    __pycache__,
+    .git,
+    .vscode
+max-line-length = 127
